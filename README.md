@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user="KGandhi90")](https://git.io/streak-stats)
 
 ### 📫 Let's Connect!  
 - 📧 Email: [kevin.gandhi@somaiya.edu](mailto:kevin.gandhi@somaiya.edu)  
