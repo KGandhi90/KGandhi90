@@ -27,11 +27,16 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
+#### 🔧 Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KGandhi90&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect!  
 - 📧 Email: [kevin.gandhi@somaiya.edu](mailto:kevin.gandhi@somaiya.edu)  
