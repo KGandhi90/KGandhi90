@@ -13,6 +13,7 @@
 - 💬 Ask me about **CSS and Frontend Development**  
 - ⚡ Fun fact: **OCT 31 = DEC 25** (If you know, you know 😉)
 
+#### 🛠️ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,7 +35,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats  
+#### 📊 GitHub Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user="KGandhi90")](https://git.io/streak-stats)
 
