@@ -25,3 +25,17 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KGandhi90&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+### 📫 Let's Connect!  
+- 📧 Email: [kevin.gandhi@somaiya.edu](mailto:kevin.gandhi@somaiya.edu)  
+- 🏗️ Portfolio: *Coming soon!*  
+- 🔗 GitHub: [KGandhi90](https://github.com/KGandhi90)  
+
+---
