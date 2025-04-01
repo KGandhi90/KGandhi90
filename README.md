@@ -37,7 +37,7 @@
 
 #### 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user="KGandhi90")](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KGandhi90)](https://git.io/streak-stats)
 
 ### 📫 Let's Connect!  
 <p align="left">
