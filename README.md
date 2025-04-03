@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 #### 🔧 Tools & Platforms  
@@ -37,7 +38,7 @@
 
 #### 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KGandhi90)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=KGandhi90&theme=gotham)
 
 ### 📫 Let's Connect!  
 <p align="left">
