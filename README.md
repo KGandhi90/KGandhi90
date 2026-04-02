@@ -1,17 +1,11 @@
 ## Hi there 👋 I'm Kevin Gandhi!
 
 
-<!--
--->
-### 🚀 About Me  
-- 🎓 Pursuing a **Bachelor’s in Computer Applications**  
-- 💻 Passionate about **Front-End Application Development**  
-- 🔭 Currently working with **Databases**  
-- 🌱 Learning **Supabase** and **React**  
-- 👯 Looking to collaborate on **Web Development projects**  
-- 🤔 Seeking guidance in **Backend Development**  
-- 💬 Ask me about **CSS and Frontend Development**  
-- ⚡ Fun fact: **OCT 31 = DEC 25** (If you know, you know 😉)
+### 🚀 About Me
+- 🎓 Pursuing a **Bachelor’s in Computer Applications**
+- 💻 Passionate about **Web Development**
+- 🔭 Currently working with **Wolfram**
+- 🌱 Learning **AI**
 
 #### 🛠️ Tech Stack  
 <p align="left">
@@ -53,9 +47,6 @@
   </a>
   <a href="https://twitter.com/KevinGandhi1234">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://bsky.app/profile/kevin-gandhi.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   <a href="https://discordapp.com/users/kevingandhi_54560">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
