@@ -4,7 +4,7 @@
 ### 🚀 About Me
 - 🎓 Pursuing a **Bachelor’s in Computer Applications**
 - 💻 Passionate about **Web Development**
-- 🔭 Currently working with **MERN**
+- 🔭 Currently working with **n8n**
 - 🌱 Learning **AI**
 
 #### 🛠️ Tech Stack  
